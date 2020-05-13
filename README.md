@@ -1,0 +1,1 @@
+# soap_client_for_spring_integration_project
